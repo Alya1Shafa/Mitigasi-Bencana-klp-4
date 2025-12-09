@@ -15,7 +15,7 @@ from imblearn.over_sampling import SMOTE # Teknik Over-sampling
 
 # =========================================================
 # reneifubeuif
-# reniiiiiiii
+# reniiiiii
 
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
