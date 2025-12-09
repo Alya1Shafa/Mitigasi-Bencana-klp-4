@@ -7,8 +7,21 @@ from sklearn.naive_bayes import ComplementNB
 from sklearn.linear_model import LogisticRegression # Model Kedua
 from sklearn.metrics import classification_report, accuracy_score
 from imblearn.over_sampling import SMOTE # Teknik Over-sampling
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+#HFUGFIUFUOIICNDICDI RENDI
+# REEEE
+# dani punya
+#uifurfrffr
+=======
+#iqbal
+>>>>>>> 0cf5d227db62344958cb451abe263ab5b7617a2b
+>>>>>>> f63083482c716fc81ad46c86efb4d5fc29b76a64
 # =========================================================
+
+# reniiiiiiii
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
     'banjir_data_realtime.csv',   
