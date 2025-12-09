@@ -10,6 +10,7 @@ from imblearn.over_sampling import SMOTE # Teknik Over-sampling
 #HFUGFIUFUOIICNDICDI RENDI
 # REEEE
 # dani punya
+#uifurfrffr
 # =========================================================
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
