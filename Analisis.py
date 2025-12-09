@@ -7,9 +7,7 @@ from sklearn.naive_bayes import ComplementNB
 from sklearn.linear_model import LogisticRegression # Model Kedua
 from sklearn.metrics import classification_report, accuracy_score
 from imblearn.over_sampling import SMOTE # Teknik Over-sampling
-
-# REEEE
-# dani punya
+"ini saya punya"
 # =========================================================
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
