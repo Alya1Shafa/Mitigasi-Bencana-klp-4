@@ -16,7 +16,7 @@ from imblearn.over_sampling import SMOTE # Teknik Over-sampling
 #iqbal
 >>>>>>> 0cf5d227db62344958cb451abe263ab5b7617a2b
 # =========================================================
-
+# reneifubeuif
 # reniiiiiiii
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
