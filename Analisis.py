@@ -8,15 +8,6 @@ from sklearn.linear_model import LogisticRegression # Model Kedua
 from sklearn.metrics import classification_report, accuracy_score
 from imblearn.over_sampling import SMOTE # Teknik Over-sampling
 
-#HFUGFIUFUOIICNDICDI RENDI
-# REE
-# dani punya
-#uifurfrffr
-
-# =========================================================
-# reneifubeuif
-# reniiiiii
-
 # ⚠️ GANTI DENGAN NAMA 3 FILE CSV ANDA! ⚠️
 FILE_NAMES = [
     'banjir_data_realtime.csv',   
@@ -123,6 +114,12 @@ else:
 
 
 print("==================================================")
+
+
+
+
+
+
 
 
 
